@@ -1,6 +1,7 @@
 CC = gcc
-CFLAGS = -arch i386 -Wall -O3
-INCLUDES = 
+#CFLAGS = -arch i386 -Wall -O3
+CFLAGS = -Wall -O3
+INCLUDES =
 LFLAGS = 
 LIBS = -lm
 
